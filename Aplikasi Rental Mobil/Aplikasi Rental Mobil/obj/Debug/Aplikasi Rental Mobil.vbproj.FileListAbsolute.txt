@@ -1,0 +1,20 @@
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Login.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Resources.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.vbproj.GenerateResource.cache
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.vbproj.CoreCompileInputs.cache
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.pdb
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.xml
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.exe
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.xml
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.pdb
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Detail_Booking.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Booking.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Register.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Dashboard.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Profile.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Detail.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.vbproj.AssemblyReference.cache
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.FormCoba.resources
+D:\Document\Kampus\Tugas\PBD\Aplikasi Rental Mobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.TransaksiSelesai.resources
